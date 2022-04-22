@@ -1,3 +1,23 @@
+# Project
+Calendar Task App
+
+* navigate to different months and years
+* view day/week/month
+* CRUD Tasks
+* Modal view: Create/Edit, Start/End day/time
+* saved in data store / DB
+
+
+## Questions
+* Task vs event?
+
+
+
+# Interviewing Tool Feedback
+* Look at task, and then time is already running? What if I want to work on it at a later point in time?
+* What are criteria for success? How much am I expected to achieve?
+
+
 # Nextjs boilerplate
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
