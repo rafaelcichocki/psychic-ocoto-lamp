@@ -7,6 +7,10 @@ Calendar Task App
 * Modal view: Create/Edit, Start/End day/time
 * saved in data store / DB
 
+## Further thoughts
+* Authentication
+* Inviting others to events
+
 
 ## Questions
 * Task vs event?
@@ -16,6 +20,11 @@ Calendar Task App
 # Interviewing Tool Feedback
 * Look at task, and then time is already running? What if I want to work on it at a later point in time?
 * What are criteria for success? How much am I expected to achieve?
+
+Huge project definition but usable if:
+* tell beforehand that project will be greenfield so that candidate can prep favourite stack and boilerplate
+* tell what to focus on (styling, state, reusable components, services, tests, ...)
+* tell that project is incompletable - just choose 1 feature from it and try to do it as fully as possible in 4h?
 
 
 # Nextjs boilerplate
